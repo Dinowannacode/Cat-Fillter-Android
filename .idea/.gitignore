@@ -1,0 +1,58 @@
+# Gradle files
+.gradle/
+build/
+local.properties
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+caches/
+outputs/
+intermediates/
+
+# Android Studio files
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+*.jks
+
+# Misc
+.DS_Store
+*.log
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.hprof
+*.orig
+*.pyc
+*.swp
+*.lock
+*.keystore
+*.bak
+*.tmp
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Gradle Wrapper
+gradlew
+gradlew.bat
+
+# Exclude Android Crashlytics / Fabric
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Exclude local emulator, Android log, or idea config files
+*.hprof
+.idea/

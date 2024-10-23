@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Green_Hell</string>
+    <string name="image_desc">Image Description</string>
+    <string name="horizontal_scroll_view_desc">Image Description</string>
+</resources>

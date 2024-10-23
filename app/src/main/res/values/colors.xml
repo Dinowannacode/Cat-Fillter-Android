@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_orange">#FFCCBC</color>
+    <color name="light_brown">#D7CCC8</color>
+    <color name="light_cream">#FFF3E0</color>
+    <color name="light_red">#FFABAB</color>
+    <color name="light_pink">#FFE4E1</color>
+    <color name="brand_color">#4CAF50</color>
+    <color name="my_dark_primary">#FF5722</color> <!-- Màu chính cho chế độ tối -->
+    <color name="my_light_primary">#FFAB40</color> <!-- Màu chính cho chế độ sáng -->
+    <color name="my_accent_color">#FF9800</color> <!-- Màu phụ -->
+</resources>
